@@ -1,0 +1,4 @@
+Sudo wget https://raw.githubusercontent.com/lerndevops/labs/master/scripts/installK8S.sh -P /tmp
+
+sudo chmod 755 /tmp/installk8S.sh 
+Sudo bash /tmp/installk8S.sh
